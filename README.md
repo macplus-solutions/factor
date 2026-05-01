@@ -6,7 +6,7 @@ A small Swift CLI for finding number factors—built as a clear, readable exampl
 
 ### Usage
 ```
-OVERVIEW: Print the factors of one or more integers.
+OVERVIEW: Print factors for one or more integers.
 
 USAGE: factor [<integers> ...]
 
