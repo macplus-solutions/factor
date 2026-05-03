@@ -1,5 +1,7 @@
 # Factor
 
+Swift CLI for finding number factors, designed as a clear, readable example of simple command-line tools.
+
 ### Usage
 ```
 OVERVIEW: Print factors for one or more integers.
